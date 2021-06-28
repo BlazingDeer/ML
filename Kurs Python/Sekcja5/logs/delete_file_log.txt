@@ -1,0 +1,5 @@
+
+--------------------
+2020-12-20 20:01:54.262361 - used function delete_filedelete_file(./dummyfile1.txt,)
+--------------------
+2020-12-20 20:01:54.263361 - used function delete_filedelete_file(./dummyfile2.txt,)
