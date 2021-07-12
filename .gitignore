@@ -3,4 +3,6 @@
 **/__pychache__
 
 **/.ipynb_checkpoints
+**/my_logs
 
+*.h5
